@@ -1,2 +1,2 @@
 let bonjour = 'Hello World';
-console.log(bonjour);
+console.log(bonjour + 'hgfd');
